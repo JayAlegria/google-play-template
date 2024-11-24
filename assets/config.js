@@ -1,0 +1,1 @@
+var stylePath = "assets/css/";
